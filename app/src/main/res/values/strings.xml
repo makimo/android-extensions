@@ -45,4 +45,10 @@
         mattis vitae diam sed, vulputate tempus neque. Maecenas ornare nisl metus. Cras
         ut varius urna, et malesuada leo."
     </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">help</string>
+    <string name="next">next</string>
+    <string name="done">done</string>
+    <string name="register">register</string>
 </resources>
